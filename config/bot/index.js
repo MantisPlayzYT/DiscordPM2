@@ -3,7 +3,7 @@ const path = require("path");
 const configPath = path.resolve(__dirname, "bot-config.json");
 
 let DefaultBotConfig = {
-    Token: "MTA1NDc5NDYyNjI5NDM2NjMxOA.G7lgK7.eIt6zklxDdwaQ8BV6p7O4BVcQnn92593SAOWM0",
+    Token: "MTA1NDc5NDYyNjI5NDM2NjMxOA.GUi-Ci.wMAneYuM_lIz0sbf4UmloAX8zXrF-ZruMca_uM",
     Owner: "708727559432699994",
 }
 
